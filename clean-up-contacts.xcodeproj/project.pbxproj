@@ -198,6 +198,9 @@
 		55C1942424654203006BD4C0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = "Саша";
@@ -436,6 +439,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"clean-up-contacts/Preview Content\"";
+				DEVELOPMENT_TEAM = 8H596MVG2G;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "clean-up-contacts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -445,7 +449,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "iHouse.clean-up-contacts";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -455,6 +459,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"clean-up-contacts/Preview Content\"";
+				DEVELOPMENT_TEAM = 8H596MVG2G;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "clean-up-contacts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -464,7 +469,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "iHouse.clean-up-contacts";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
